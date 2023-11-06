@@ -12,3 +12,6 @@ Skills:
 Job Experience:
 [JobExperienceModel.pdf](https://github.com/gentdimad/ARSAlgorithm/files/13270900/JobExperienceModel.pdf)
 
+Conceptual Framework:
+![image](https://github.com/gentdimad/ARSAlgorithm/assets/113000044/a73a89e6-791f-48b5-9743-5b45dbbd0fdb)
+
